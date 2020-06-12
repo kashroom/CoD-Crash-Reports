@@ -1,0 +1,404 @@
+hr: 887a0005
+hrRemovedReason: 887a0005
+Video Memory Info:
+	Budget: 8039 MB
+	Budget (unscaled): 9457 MB
+	Used: 4350 MB
+	Used (High watermark): 4350 MB
+	Available: 3689 MB
+	Deficit: 0 MB
+System Video Memory Info:
+	Budget: 14719 MB
+	Budget (unscaled): 14719 MB
+	Used: 1153 MB
+	Used (High watermark): 1153 MB
+	Available: 13565 MB
+	Deficit: 0 MB
+
+* Breadcrumbs report
+*
+* QUEUE 0 (last known completed fence = 154491 : 3)
+* --- ----------------  -------- --- -   -------------------------------
+* [-] commandListPtr   [id:status fence] callstackId     description... 
+* --- ----------------  -------- --- -   -------------------------------
+*[X] 000001be2d3185f0 [0007e97a:out 2]: {completed: fence 154490}
+* [X] 000001be2d31b3e0 [0010bf1a:cpu 3]: {begin} 
+* [X] 000001be2d31b3e0 [0010bf1b:cpu 3]: 0x000a0000_bcid 
+* [X] 000001be2d31b3e0 [0010bf1c:cpu 3]: 0x000a0001_bcid 
+* [X] 000001be2d31b3e0 [0010bf1d:cpu 3]: 0x000a0002_bcid 
+* [X] 000001be2d31b3e0 [0010bf1e:cpu 3]: 0x000a0003_bcid 
+* [X] 000001be2d31b3e0 [0010bf1f:cpu 3]: 0x000a0004_bcid 
+* [X] 000001be2d31b3e0 [0010bf20:cpu 3]: 0x000a0005_bcid 
+* [X] 000001be2d31b3e0 [0010bf21:cpu 3]: 0x000a0006_bcid 
+* [X] 000001be2d31b3e0 [0010bf22:cpu 3]: 0x000a0007_bcid 
+* [X] 000001be2d31b3e0 [0010bf23:cpu 3]: 0x000a0008_bcid 
+* [X] 000001be2d31b3e0 [0010bf24:cpu 3]: 0x00090000_bcid 
+* [X] 000001be2d31b3e0 [0010bf25:cpu 3]: 0x00090001_bcid 
+* [X] 000001be2d31b3e0 [0010bf26:cpu 3]: 0x00090002_bcid 
+* [X] 000001be2d31b3e0 [0010bf27:cpu 3]: 0x00020001_bcid 0x000001b437156a10 (0x856c38153cbde53c) 65 
+* [X] 000001be2d31b3e0 [0010bf28:cpu 3]: 0x00020001_bcid 0x000001b437157844 (0xe0e25266c2c628f6) 65 
+* [X] 000001be2d31b3e0 [0010bf29:cpu 3]: 0x00020001_bcid 0x000001b43754e8d0 (0x827f42dfb1d93f99) 763 
+* [X] 000001be2d31b3e0 [0010bf2a:cpu 3]: 0x00070000_bcid task (732; 0; 50): : !executing 
+* [X] 000001be2d31b3e0 [0010bf2b:cpu 3]: 0x00070000_bcid task (733; 1; 240): : !executing 
+* [X] 000001be2d31b3e0 [0010bf2c:cpu 3]: 0x00020001_bcid 0x000001b43750b10c (0x1e79cc0678168de6) 427 
+* [X] 000001be2d31b3e0 [0010bf2d:cpu 3]: 0x00070000_bcid task (734; 2; 158): : !executing 
+* [X] 000001be2d31b3e0 [0010bf2e:cpu 3]: 0x00070000_bcid task (735; 3; 158): : !executing 
+* [X] 000001be2d31b3e0 [0010bf2f:cpu 3]: 0x00070000_bcid task (736; 4; 159): : !executing 
+* [X] 000001be2d31b3e0 [0010bf30:cpu 3]: 0x00070000_bcid task (737; 5; 159): : !executing 
+* [X] 000001be2d31b3e0 [0010bf31:cpu 3]: 0x00070000_bcid task (738; 6; 160): : !executing 
+* [X] 000001be2d31b3e0 [0010bf32:cpu 3]: 0x00020001_bcid 0x000001b4373afe5c (0x2d6c192529f0b09d) 1 
+* [X] 000001be2d31b3e0 [0010bf33:cpu 3]: 0x00070000_bcid task (739; 7; 160): : !executing 
+* [X] 000001be2d31b3e0 [0010bf34:cpu 3]: 0x00020001_bcid 0x000001b4373afe5c (0x2d6c192529f0b09d) 1 
+* [X] 000001be2d31b3e0 [0010bf35:cpu 3]: 0x00070000_bcid task (740; 8; 155): : !executing 
+* [X] 000001be2d31b3e0 [0010bf36:cpu 3]: 0x00070000_bcid task (741; 9; 240): : !executing 
+* [X] 000001be2d31b3e0 [0010bf37:cpu 3]: 0x00020001_bcid 0x000001b43750b10c (0x1e79cc0678168de6) 427 
+* [X] 000001be2d31b3e0 [0010bf38:cpu 3]: 0x00070000_bcid task (742; 10; 161): : !executing 
+* [X] 000001be2d31b3e0 [0010bf39:cpu 3]: 0x00070000_bcid task (743; 11; 156): : !executing 
+* [X] 000001be2d31b3e0 [0010bf3a:cpu 3]: 0x00020001_bcid 0x000001b4373b1c54 (0x042747a47b2f41f2) 4 
+* [X] 000001be2d31b3e0 [0010bf3b:cpu 3]: 0x00070000_bcid task (744; 12; 162): : !executing 
+* [X] 000001be2d31b3e0 [0010bf3c:cpu 3]: 0x00020001_bcid 0x000001b4373b1a30 (0x1ddbe890ac4f2979) 1 
+* [X] 000001be2d31b3e0 [0010bf3d:cpu 3]: 0x00070000_bcid task (745; 13; 155): : !executing 
+* [X] 000001be2d31b3e0 [0010bf3e:cpu 3]: 0x00070000_bcid task (746; 14; 163): : !executing 
+* [X] 000001be2d31b3e0 [0010bf3f:cpu 3]: 0x00070000_bcid task (747; 15; 161): : !executing 
+* [X] 000001be2d31b3e0 [0010bf40:cpu 3]: 0x00070000_bcid task (748; 16; 164): : !executing 
+* [X] 000001be2d31b3e0 [0010bf41:cpu 3]: 0x00020001_bcid 0x000001b4373b1a30 (0x1ddbe890ac4f2979) 1 
+* [X] 000001be2d31b3e0 [0010bf42:cpu 3]: 0x00070000_bcid task (749; 17; 162): : !executing 
+* [X] 000001be2d31b3e0 [0010bf43:cpu 3]: 0x00020001_bcid 0x000001b4373b1a30 (0x1ddbe890ac4f2979) 1 
+* [X] 000001be2d31b3e0 [0010bf44:cpu 3]: 0x00070000_bcid task (750; 18; 165): : !executing 
+* [X] 000001be2d31b3e0 [0010bf45:cpu 3]: 0x00020001_bcid 0x000001b43746ca60 (0x0a67f27a6beedd7e) 1 
+* [X] 000001be2d31b3e0 [0010bf46:cpu 3]: 0x00020001_bcid 0x000001b437469fac (0xcfbd5fe00f6a4e75) 1 
+* [X] 000001be2d31b3e0 [0010bf47:cpu 3]: 0x00020001_bcid 0x000001b437466c44 (0x999c36d6312b6ef1) 1 
+* [X] 000001be2d31b3e0 [0010bf48:cpu 3]: 0x00070000_bcid task (751; 19; 156): : !executing 
+* [X] 000001be2d31b3e0 [0010bf49:cpu 3]: 0x00020001_bcid 0x000001b4373b1c54 (0x042747a47b2f41f2) 6 
+* [X] 000001be2d31b3e0 [0010bf4a:cpu 3]: 0x00070000_bcid task (752; 20; 259): : !executing 
+* [X] 000001be2d31b3e0 [0010bf4b:cpu 3]: 0x00020001_bcid 0x000001b437608380 (0x5266ee12f654b8a0) 1 
+* [X] 000001be2d31b3e0 [0010bf4c:cpu 3]: 0x00070000_bcid task (753; 21; 167): : !executing 
+* [X] 000001be2d31b3e0 [0010bf4d:cpu 3]: 0x00020000_bcid 0x000001b4373b0c8c (0xd3d79f8ab091628b) 70843891712 
+* [X] 000001be2d31b3e0 [0010bf4e:cpu 3]: 0x00070000_bcid task (754; 22; 166): : !executing 
+* [X] 000001be2d31b3e0 [0010bf4f:cpu 3]: 0x00020001_bcid 0x000001b43746934c (0x1fdf2c9cc52ebd0c) 1 
+* [X] 000001be2d31b3e0 [0010bf50:cpu 3]: 0x00070000_bcid task (755; 23; 203): : !executing 
+* [X] 000001be2d31b3e0 [0010bf51:cpu 3]: 0x00070000_bcid task (756; 24; 109): : !executing 
+* [X] 000001be2d31b3e0 [0010bf52:cpu 3]: 0x00020001_bcid 0x000001b437178fd0 (0x14f612934d6cde0d) 1 
+* [X] 000001be2d31b3e0 [0010bf53:cpu 3]: 0x00070000_bcid task (757; 25; 74): : !executing 
+* [X] 000001be2d31b3e0 [0010bf54:cpu 3]: 0x00070000_bcid task (758; 26; 98): : !executing 
+* [X] 000001be2d31b3e0 [0010bf55:cpu 3]: 0x00070000_bcid task (759; 27; 168): : !executing 
+* [X] 000001be2d31b3e0 [0010bf56:cpu 3]: 0x00020000_bcid 0x000001b4373ab178 (0x9f95abba0cc1c82f) 70844940288 
+* [X] 000001be2d31b3e0 [0010bf57:cpu 3]: 0x00070000_bcid task (760; 28; 99): : !executing 
+* [X] 000001be2d31b3e0 [0010bf58:cpu 3]: 0x00070000_bcid task (761; 29; 169): : !executing 
+* [X] 000001be2d31b3e0 [0010bf59:cpu 3]: 0x00020000_bcid 0x000001b43746ca60 (0x0a67f27a6beedd7e) 70853394432 
+* [X] 000001be2d31b3e0 [0010bf5a:cpu 3]: 0x00020001_bcid 0x000001b437469fac (0xcfbd5fe00f6a4e75) 1 
+* [X] 000001be2d31b3e0 [0010bf5b:cpu 3]: 0x00020000_bcid 0x000001b437466c44 (0x999c36d6312b6ef1) 70853394432 
+* [X] 000001be2d31b3e0 [0010bf5c:cpu 3]: 0x00070000_bcid task (762; 30; 163): : !executing 
+* [X] 000001be2d31b3e0 [0010bf5d:cpu 3]: 0x00070000_bcid task (763; 31; 191): : !executing 
+* [X] 000001be2d31b3e0 [0010bf5e:cpu 3]: 0x00070000_bcid task (764; 32; 172): : !executing 
+* [X] 000001be2d31b3e0 [0010bf5f:cpu 3]: 0x00020000_bcid 0x000001b4373af644 (0xa5296037f16fe181) 70844940288 
+* [X] 000001be2d31b3e0 [0010bf60:cpu 3]: 0x00070000_bcid task (765; 33; 165): : !executing 
+* [X] 000001be2d31b3e0 [0010bf61:cpu 3]: 0x00020001_bcid 0x000001b43746ca60 (0x0a67f27a6beedd7e) 2 
+* [X] 000001be2d31b3e0 [0010bf62:cpu 3]: 0x00020001_bcid 0x000001b437469fac (0xcfbd5fe00f6a4e75) 1 
+* [X] 000001be2d31b3e0 [0010bf63:cpu 3]: 0x00020001_bcid 0x000001b437466c44 (0x999c36d6312b6ef1) 2 
+* [X] 000001be2d31b3e0 [0010bf64:cpu 3]: 0x00070000_bcid task (766; 34; 170): : !executing 
+* [X] 000001be2d31b3e0 [0010bf65:cpu 3]: 0x00020001_bcid 0x000001b43746934c (0x1fdf2c9cc52ebd0c) 1 
+* [X] 000001be2d31b3e0 [0010bf66:cpu 3]: 0x00070000_bcid task (767; 35; 166): : !executing 
+* [X] 000001be2d31b3e0 [0010bf67:cpu 3]: 0x00020001_bcid 0x000001b43746934c (0x1fdf2c9cc52ebd0c) 1 
+* [X] 000001be2d31b3e0 [0010bf68:cpu 3]: 0x00070000_bcid task (768; 36; 173): : !executing 
+* [X] 000001be2d31b3e0 [0010bf69:cpu 3]: 0x00020000_bcid 0x000001b4373c8b28 (0xdd8738cb2d1f758f) 70843957248 
+* [X] 000001be2d31b3e0 [0010bf6a:cpu 3]: 0x00070000_bcid task (769; 37; 164): : !executing 
+* [X] 000001be2d31b3e0 [0010bf6b:cpu 3]: 0x00020001_bcid 0x000001b4373b1a30 (0x1ddbe890ac4f2979) 1 
+* [X] 000001be2d31b3e0 [0010bf6c:cpu 3]: 0x00070000_bcid task (770; 38; 174): : !executing 
+* [X] 000001be2d31b3e0 [0010bf6d:cpu 3]: 0x00020000_bcid 0x000001b43746dbb8 (0xac9c8eb37b0b57d5) 70844022784 
+* [X] 000001be2d31b3e0 [0010bf6e:cpu 3]: 0x00020001_bcid 0x000001b43746b4a4 (0x18251c8875900f1e) 1 
+* [X] 000001be2d31b3e0 [0010bf6f:cpu 3]: 0x00020000_bcid 0x000001b437468400 (0xc5f419d06494f082) 70844022784 
+* [X] 000001be2d31b3e0 [0010bf70:cpu 3]: 0x00070000_bcid task (771; 39; 167): : !executing 
+* [X] 000001be2d31b3e0 [0010bf71:cpu 3]: 0x00020000_bcid 0x000001b4373b0c8c (0xd3d79f8ab091628b) 70852608000 
+* [X] 000001be2d31b3e0 [0010bf72:cpu 3]: 0x00070000_bcid task (772; 40; 168): : !executing 
+* [X] 000001be2d31b3e0 [0010bf73:cpu 3]: 0x00020000_bcid 0x000001b4373ab178 (0x9f95abba0cc1c82f) 70852476928 
+* [X] 000001be2d31b3e0 [0010bf74:cpu 3]: 0x00070000_bcid task (773; 41; 169): : !executing 
+* [X] 000001be2d31b3e0 [0010bf75:cpu 3]: 0x00020000_bcid 0x000001b43746ca60 (0x0a67f27a6beedd7e) 70852542464 
+* [X] 000001be2d31b3e0 [0010bf76:cpu 3]: 0x00020001_bcid 0x000001b437469fac (0xcfbd5fe00f6a4e75) 1 
+* [X] 000001be2d31b3e0 [0010bf77:cpu 3]: 0x00020000_bcid 0x000001b437466c44 (0x999c36d6312b6ef1) 70852542464 
+* [X] 000001be2d31b3e0 [0010bf78:cpu 3]: 0x00070000_bcid task (774; 42; 170): : !executing 
+* [X] 000001be2d31b3e0 [0010bf79:cpu 3]: 0x00020001_bcid 0x000001b43746934c (0x1fdf2c9cc52ebd0c) 1 
+* [X] 000001be2d31b3e0 [0010bf7a:cpu 3]: 0x00070000_bcid task (775; 43; 172): : !executing 
+* [X] 000001be2d31b3e0 [0010bf7b:cpu 3]: 0x00020000_bcid 0x000001b4373af644 (0xa5296037f16fe181) 70852476928 
+* [X] 000001be2d31b3e0 [0010bf7c:cpu 3]: 0x00070000_bcid task (776; 44; 173): : !executing 
+* [X] 000001be2d31b3e0 [0010bf7d:cpu 3]: 0x00020000_bcid 0x000001b4373c8b28 (0xdd8738cb2d1f758f) 70844022784 
+* [X] 000001be2d31b3e0 [0010bf7e:cpu 3]: 0x00070000_bcid task (777; 45; 174): : !executing 
+* [X] 000001be2d31b3e0 [0010bf7f:cpu 3]: 0x00020000_bcid 0x000001b43746dbb8 (0xac9c8eb37b0b57d5) 70844678144 
+* [X] 000001be2d31b3e0 [0010bf80:cpu 3]: 0x00020001_bcid 0x000001b43746b4a4 (0x18251c8875900f1e) 1 
+* [X] 000001be2d31b3e0 [0010bf81:cpu 3]: 0x00020000_bcid 0x000001b437468400 (0xc5f419d06494f082) 70844678144 
+* [X] 000001be2d31b3e0 [0010bf82:cpu 3]: 0x00070000_bcid task (778; 46; 175): : !executing 
+* [X] 000001be2d31b3e0 [0010bf83:cpu 3]: 0x00020001_bcid 0x000001b4373bce20 (0x312c7bcf2526adb7) 5 
+* [X] 000001be2d31b3e0 [0010bf84:cpu 3]: 0x00070000_bcid task (779; 47; 176): : !executing 
+* [X] 000001be2d31b3e0 [0010bf85:cpu 3]: 0x00020000_bcid 0x000001b4373cccf8 (0xe85c763ffb54f295) 70844022784 
+* [X] 000001be2d31b3e0 [0010bf86:cpu 3]: 0x00070000_bcid task (780; 48; 114): : !executing 
+* [X] 000001be2d31b3e0 [0010bf87:cpu 3]: 0x00070000_bcid task (781; 49; 78): : !executing 
+* [X] 000001be2d31b3e0 [0010bf88:cpu 3]: {batch -> 000001beb1498850} 
+* [X] 000001be2d31b3e0 [0010bf89:cpu 3]: {batch -> 000001bec90db6b0} 
+* [X] 000001be2d31b3e0 [0010bf8a:cpu 3]: {end: fence 154491}
+* [X] 000001be2d31c790 [00044187:cpu 3]: {begin} 
+* [X] 000001be2d31c790 [00044188:cpu 3]: 0x00070000_bcid task (782; 50; 93): : !executing 
+* [X] 000001be2d31c790 [00044189:cpu 3]: 0x00070000_bcid task (783; 51; 85): : !executing 
+* [X] 000001be2d31c790 [0004418a:cpu 3]: 0x00020001_bcid 0x000001b43758d2e8 (0xa7a26ff019151718) 128 
+* [X] 000001be2d31c790 [0004418b:cpu 3]: 0x00070000_bcid task (784; 52; 87): : !executing 
+* [X] 000001be2d31c790 [0004418c:cpu 3]: 0x00020001_bcid 0x000001b43758cce0 (0x4815a9ae2267eb31) 128 
+* [X] 000001be2d31c790 [0004418d:cpu 3]: 0x00070000_bcid task (785; 53; 94): : !executing 
+* [X] 000001be2d31c790 [0004418e:cpu 3]: 0x00070000_bcid task (786; 54; 94): : !executing 
+* [X] 000001be2d31c790 [0004418f:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31c790 [00044190:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31c790 [00044191:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31c790 [00044192:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31c790 [00044193:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31c790 [00044194:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31c790 [00044195:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31c790 [00044196:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31c790 [00044197:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31c790 [00044198:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31c790 [00044199:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31c790 [0004419a:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31c790 [0004419b:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31c790 [0004419c:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31c790 [0004419d:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31c790 [0004419e:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31c790 [0004419f:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31c790 [000441a0:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31c790 [000441a1:cpu 3]: 0x00070000_bcid task (787; 55; 95): : !executing 
+* [X] 000001be2d31c790 [000441a2:cpu 3]: 0x00070000_bcid task (788; 56; 95): : !executing 
+* [X] 000001be2d31c790 [000441a3:cpu 3]: {batch -> 000001beb149afb0} 
+* [X] 000001be2d31c790 [000441a4:cpu 3]: {end: fence 154491}
+* [X] 000001be2d31ba70 [0001ca4c:cpu 3]: {begin} 
+* [X] 000001be2d31ba70 [0001ca4d:cpu 3]: 0x00070000_bcid task (789; 57; 102): : !executing 
+* [X] 000001be2d31ba70 [0001ca4e:cpu 3]: 0x00070000_bcid task (790; 58; 102): : !executing 
+* [X] 000001be2d31ba70 [0001ca4f:cpu 3]: 0x00070000_bcid task (791; 59; 100): : !executing 
+* [X] 000001be2d31ba70 [0001ca50:cpu 3]: 0x00070000_bcid task (792; 60; 100): : !executing 
+* [X] 000001be2d31ba70 [0001ca51:cpu 3]: 0x00070000_bcid task (793; 61; 94): : !executing 
+* [X] 000001be2d31ba70 [0001ca52:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31ba70 [0001ca53:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31ba70 [0001ca54:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31ba70 [0001ca55:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31ba70 [0001ca56:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31ba70 [0001ca57:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31ba70 [0001ca58:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31ba70 [0001ca59:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31ba70 [0001ca5a:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31ba70 [0001ca5b:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31ba70 [0001ca5c:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31ba70 [0001ca5d:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31ba70 [0001ca5e:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31ba70 [0001ca5f:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31ba70 [0001ca60:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31ba70 [0001ca61:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31ba70 [0001ca62:cpu 3]: 0x00060003_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 0x000001b43790ea30 (0x17598770d0984f40) 
+* [X] 000001be2d31ba70 [0001ca63:cpu 3]: 0x00060000_bcid 0x000001b43a54fe30 (0xb3fb0e5eace0a080) 
+* [X] 000001be2d31ba70 [0001ca64:cpu 3]: 0x00070000_bcid task (794; 62; 95): : !executing 
+* [X] 000001be2d31ba70 [0001ca65:cpu 3]: {batch -> 000001beb1497b30} 
+* [X] 000001be2d31ba70 [0001ca66:cpu 3]: {end: fence 154491}
+* [X] 000001be2d318c80 [0008902f:cpu 3]: {begin} 
+* [X] 000001be2d318c80 [00089030:cpu 3]: 0x00070000_bcid task (795; 63; 102): : !executing 
+* [X] 000001be2d318c80 [00089031:cpu 3]: 0x00070000_bcid task (796; 64; 103): : !executing 
+* [X] 000001be2d318c80 [00089032:cpu 3]: 0x00070000_bcid task (797; 65; 181): : !executing 
+* [X] 000001be2d318c80 [00089033:cpu 3]: 0x00020001_bcid 0x000001b43739604c (0x54dc84fd20fb5fc7) 18 
+* [X] 000001be2d318c80 [00089034:cpu 3]: 0x00070000_bcid task (798; 66; 251): : !executing 
+* [X] 000001be2d318c80 [00089035:cpu 3]: 0x00020001_bcid 0x000001b43760a3a8 (0xbd1aca1da24d8a53) 18 
+* [X] 000001be2d318c80 [00089036:cpu 3]: 0x00070000_bcid task (799; 67; 95): : !executing 
+* [X] 000001be2d318c80 [00089037:cpu 3]: {batch -> 000001beb149bcd0} 
+* [X] 000001be2d318c80 [00089038:cpu 3]: {end: fence 154491}
+* [X] 000001be2d31e1d0 [0008ee06:cpu 3]: {begin} 
+* [X] 000001be2d31e1d0 [0008ee07:cpu 3]: 0x00070000_bcid task (800; 68; 102): : !executing 
+* [X] 000001be2d31e1d0 [0008ee08:cpu 3]: 0x00070000_bcid task (801; 69; 100): : !executing 
+* [X] 000001be2d31e1d0 [0008ee09:cpu 3]: 0x00070000_bcid task (802; 70; 175): : !executing 
+* [X] 000001be2d31e1d0 [0008ee0a:cpu 3]: 0x00020001_bcid 0x000001b4373bce20 (0x312c7bcf2526adb7) 4 
+* [X] 000001be2d31e1d0 [0008ee0b:cpu 3]: 0x00070000_bcid task (803; 71; 176): : !executing 
+* [X] 000001be2d31e1d0 [0008ee0c:cpu 3]: 0x00020000_bcid 0x000001b4373cccf8 (0xe85c763ffb54f295) 70843957248 
+* [X] 000001be2d31e1d0 [0008ee0d:cpu 3]: 0x00070000_bcid task (804; 72; 65): : !executing 
+* [X] 000001be2d31e1d0 [0008ee0e:cpu 3]: 0x00070000_bcid task (805; 73; 104): : !executing 
+* [X] 000001be2d31e1d0 [0008ee0f:cpu 3]: 0x00020001_bcid 0x000001b437596aa0 (0xa63c8fee26a72cda) 128 
+* [X] 000001be2d31e1d0 [0008ee10:cpu 3]: 0x00070000_bcid task (806; 74; 104): : !executing 
+* [X] 000001be2d31e1d0 [0008ee11:cpu 3]: 0x00070000_bcid task (807; 75; 105): : !executing 
+* [X] 000001be2d31e1d0 [0008ee12:cpu 3]: 0x00020001_bcid 0x000001b437596aa0 (0xa63c8fee26a72cda) 8 
+* [X] 000001be2d31e1d0 [0008ee13:cpu 3]: 0x00070000_bcid task (808; 76; 105): : !executing 
+* [X] 000001be2d31e1d0 [0008ee14:cpu 3]: 0x00070000_bcid task (809; 77; 104): : !executing 
+* [X] 000001be2d31e1d0 [0008ee15:cpu 3]: 0x00020001_bcid 0x000001b437596aa0 (0xa63c8fee26a72cda) 128 
+* [X] 000001be2d31e1d0 [0008ee16:cpu 3]: 0x00070000_bcid task (810; 78; 104): : !executing 
+* [X] 000001be2d31e1d0 [0008ee17:cpu 3]: 0x00020001_bcid 0x000001b437596aa0 (0xa63c8fee26a72cda) 128 
+* [X] 000001be2d31e1d0 [0008ee18:cpu 3]: 0x00070000_bcid task (811; 79; 105): : !executing 
+* [X] 000001be2d31e1d0 [0008ee19:cpu 3]: 0x00020001_bcid 0x000001b437596aa0 (0xa63c8fee26a72cda) 8 
+* [X] 000001be2d31e1d0 [0008ee1a:cpu 3]: 0x00070000_bcid task (812; 80; 105): : !executing 
+* [X] 000001be2d31e1d0 [0008ee1b:cpu 3]: 0x00020001_bcid 0x000001b437596aa0 (0xa63c8fee26a72cda) 8 
+* [X] 000001be2d31e1d0 [0008ee1c:cpu 3]: 0x00070000_bcid task (813; 81; 115): : !executing 
+* [X] 000001be2d31e1d0 [0008ee1d:cpu 3]: {end: fence 154491}
+* [ ] 000001be2d31ce20 [00033acd:cpu 4]: {begin} 
+* [ ] 000001be2d31ce20 [00033ace:cpu 4]: {end: fence 154492}
+* [ ] 000001be2d31c100 [0001ffb0:cpu 4]: {begin} 
+* [ ] 000001be2d31c100 [0001ffb1:cpu 4]: 0x00070000_bcid task (814; 82; 131): : !executing 
+* [ ] 000001be2d31c100 [0001ffb2:cpu 4]: 0x00020001_bcid 0x000001b43717db9c (0x526708762b1f7ad8) 2408 
+* [ ] 000001be2d31c100 [0001ffb3:cpu 4]: 0x00070000_bcid task (815; 83; 136): : !executing 
+* [ ] 000001be2d31c100 [0001ffb4:cpu 4]: 0x00070000_bcid task (816; 84; 137): : !executing 
+* [ ] 000001be2d31c100 [0001ffb5:cpu 4]: 0x00070000_bcid task (817; 85; 138): : !executing 
+* [ ] 000001be2d31c100 [0001ffb6:cpu 4]: 0x00070000_bcid task (818; 86; 139): : !executing 
+* [ ] 000001be2d31c100 [0001ffb7:cpu 4]: 0x00070000_bcid task (819; 87; 140): : !executing 
+* [ ] 000001be2d31c100 [0001ffb8:cpu 4]: 0x00070000_bcid task (820; 88; 141): : !executing 
+* [ ] 000001be2d31c100 [0001ffb9:cpu 4]: 0x00070000_bcid task (821; 89; 145): : !executing 
+* [ ] 000001be2d31c100 [0001ffba:cpu 4]: 0x00070000_bcid task (822; 90; 142): : !executing 
+* [ ] 000001be2d31c100 [0001ffbb:cpu 4]: 0x00070000_bcid task (823; 91; 133): : !executing 
+* [ ] 000001be2d31c100 [0001ffbc:cpu 4]: 0x00070000_bcid task (824; 92; 134): : !executing 
+* [ ] 000001be2d31c100 [0001ffbd:cpu 4]: 0x00070000_bcid task (825; 93; 133): : !executing 
+* [ ] 000001be2d31c100 [0001ffbe:cpu 4]: 0x00070000_bcid task (826; 94; 134): : !executing 
+* [ ] 000001be2d31c100 [0001ffbf:cpu 4]: 0x00070000_bcid task (827; 95; 133): : !executing 
+* [ ] 000001be2d31c100 [0001ffc0:cpu 4]: 0x00070000_bcid task (828; 96; 134): : !executing 
+* [ ] 000001be2d31c100 [0001ffc1:cpu 4]: 0x00070000_bcid task (829; 97; 133): : !executing 
+* [ ] 000001be2d31c100 [0001ffc2:cpu 4]: 0x00070000_bcid task (830; 98; 134): : !executing 
+* [ ] 000001be2d31c100 [0001ffc3:cpu 4]: 0x00070000_bcid task (831; 99; 133): : !executing 
+* [ ] 000001be2d31c100 [0001ffc4:cpu 4]: 0x00070000_bcid task (832; 100; 64): : !executing 
+* [ ] 000001be2d31c100 [0001ffc5:cpu 4]: 0x00020001_bcid 0x000001b437435858 (0x7c53d21d247d4d45) 1 
+* [ ] 000001be2d31c100 [0001ffc6:cpu 4]: 0x00070000_bcid task (833; 101; 182): : !executing 
+* [ ] 000001be2d31c100 [0001ffc7:cpu 4]: 0x00020001_bcid 0x000001b437503f18 (0x5e9e6d1e913917c9) 144 
+* [ ] 000001be2d31c100 [0001ffc8:cpu 4]: 0x00070000_bcid task (834; 103; 115): : !executing 
+* [ ] 000001be2d31c100 [0001ffc9:cpu 4]: {batch -> 000001beb14a3980} 
+* [ ] 000001be2d31c100 [0001ffca:cpu 4]: {batch -> 000001beb14a4010} 
+* [ ] 000001be2d31c100 [0001ffcb:cpu 4]: {batch -> 000001beb14a0b90} 
+* [ ] 000001be2d31c100 [0001ffcc:cpu 4]: {batch -> 000001beb149f150} 
+* [ ] 000001be2d31c100 [0001ffcd:cpu 4]: {batch -> 000001beb149eac0} 
+* [ ] 000001be2d31c100 [0001ffce:cpu 4]: {batch -> 000001beb14a4d30} 
+* [ ] 000001be2d31c100 [0001ffcf:cpu 4]: {batch -> 000001beb14a5a50} 
+* [ ] 000001be2d31c100 [0001ffd0:cpu 4]: {batch -> 000001beb14a0500} 
+* [ ] 000001be2d31c100 [0001ffd1:cpu 4]: {batch -> 000001beb14a60e0} 
+* [ ] 000001be2d31c100 [0001ffd2:cpu 4]: {end: fence 154492}
+* [ ] 000001be23d5e950 [0004ea73:cpu 4]: {begin} 
+* [ ] 000001be23d5e950 [0004ea74:cpu 4]: 0x00070000_bcid task (835; 105; 204): : !executing 
+* [ ] 000001be23d5e950 [0004ea75:cpu 4]: 0x00020001_bcid 0x000001b43737bbf0 (0x6cb519cb30bb8ba4) 427 
+* [ ] 000001be23d5e950 [0004ea76:cpu 4]: 0x00070000_bcid task (836; 106; 205): : !executing 
+* [ ] 000001be23d5e950 [0004ea77:cpu 4]: 0x00020001_bcid 0x000001b437387c80 (0x4ac04feaa61a18bd) 90 
+* [ ] 000001be23d5e950 [0004ea78:cpu 4]: 0x00070000_bcid task (837; 107; 205): : !executing 
+* [ ] 000001be23d5e950 [0004ea79:cpu 4]: 0x00020001_bcid 0x000001b43738b460 (0xc3f99c37236c2198) 25 
+* [ ] 000001be23d5e950 [0004ea7a:cpu 4]: 0x00020001_bcid 0x000001b4373843f8 (0x231b94c810e1f372) 36 
+* [ ] 000001be23d5e950 [0004ea7b:cpu 4]: 0x00070000_bcid task (838; 108; 205): : !executing 
+* [ ] 000001be23d5e950 [0004ea7c:cpu 4]: 0x00020001_bcid 0x000001b4373843f8 (0x231b94c810e1f372) 1 
+* [ ] 000001be23d5e950 [0004ea7d:cpu 4]: 0x00070000_bcid task (839; 109; 143): : !executing 
+* [ ] 000001be23d5e950 [0004ea7e:cpu 4]: 0x00070000_bcid task (840; 110; 144): : !executing 
+* [ ] 000001be23d5e950 [0004ea7f:cpu 4]: 0x00070000_bcid task (841; 111; 168): : !executing 
+* [ ] 000001be23d5e950 [0004ea80:cpu 4]: 0x00020000_bcid 0x000001b4373a48d8 (0xe7453e689d9ccba9) 70844940288 
+* [ ] 000001be23d5e950 [0004ea81:cpu 4]: 0x00070000_bcid task (842; 112; 211): : !executing 
+* [ ] 000001be23d5e950 [0004ea82:cpu 4]: 0x00020001_bcid 0x000001b4373f465c (0x846ce4ba5b4ae2d3) 27 
+* [ ] 000001be23d5e950 [0004ea83:cpu 4]: 0x00070000_bcid task (843; 113; 169): : !executing 
+* [ ] 000001be23d5e950 [0004ea84:cpu 4]: 0x00020000_bcid 0x000001b43746ca60 (0x0a67f27a6beedd7e) 70853394432 
+* [ ] 000001be23d5e950 [0004ea85:cpu 4]: 0x00020001_bcid 0x000001b437469fac (0xcfbd5fe00f6a4e75) 1 
+* [ ] 000001be23d5e950 [0004ea86:cpu 4]: 0x00020000_bcid 0x000001b437466c44 (0x999c36d6312b6ef1) 70853394432 
+* [ ] 000001be23d5e950 [0004ea87:cpu 4]: 0x00070000_bcid task (844; 114; 213): : !executing 
+* [ ] 000001be23d5e950 [0004ea88:cpu 4]: 0x00020001_bcid 0x000001b4373f8710 (0x74943fda53d7d3e7) 54 
+* [ ] 000001be23d5e950 [0004ea89:cpu 4]: 0x00070000_bcid task (845; 115; 171): : !executing 
+* [ ] 000001be23d5e950 [0004ea8a:cpu 4]: 0x00020000_bcid 0x000001b4373aec34 (0x842edbf7238863af) 70844940288 
+* [ ] 000001be23d5e950 [0004ea8b:cpu 4]: 0x00070000_bcid task (846; 116; 212): : !executing 
+* [ ] 000001be23d5e950 [0004ea8c:cpu 4]: 0x00020001_bcid 0x000001b4373f8a58 (0x2fbcad5f2d4b90b5) 54 
+* [ ] 000001be23d5e950 [0004ea8d:cpu 4]: 0x00070000_bcid task (847; 117; 170): : !executing 
+* [ ] 000001be23d5e950 [0004ea8e:cpu 4]: 0x00020001_bcid 0x000001b43746934c (0x1fdf2c9cc52ebd0c) 1 
+* [ ] 000001be23d5e950 [0004ea8f:cpu 4]: 0x00070000_bcid task (848; 118; 214): : !executing 
+* [ ] 000001be23d5e950 [0004ea90:cpu 4]: 0x00020001_bcid 0x000001b437443670 (0x2ade39a380607b2b) 107 
+* [ ] 000001be23d5e950 [0004ea91:cpu 4]: 0x00070000_bcid task (849; 119; 173): : !executing 
+* [ ] 000001be23d5e950 [0004ea92:cpu 4]: 0x00020000_bcid 0x000001b4373c1e98 (0x9e8f53a1ed097549) 70843957248 
+* [ ] 000001be23d5e950 [0004ea93:cpu 4]: 0x00070000_bcid task (850; 120; 215): : !executing 
+* [ ] 000001be23d5e950 [0004ea94:cpu 4]: 0x00020001_bcid 0x000001b437445130 (0x13c9029c167ce125) 107 
+* [ ] 000001be23d5e950 [0004ea95:cpu 4]: 0x00070000_bcid task (851; 121; 174): : !executing 
+* [ ] 000001be23d5e950 [0004ea96:cpu 4]: 0x00020000_bcid 0x000001b43746dbb8 (0xac9c8eb37b0b57d5) 70844022784 
+* [ ] 000001be23d5e950 [0004ea97:cpu 4]: 0x00020001_bcid 0x000001b43746b4a4 (0x18251c8875900f1e) 1 
+* [ ] 000001be23d5e950 [0004ea98:cpu 4]: 0x00020000_bcid 0x000001b437468400 (0xc5f419d06494f082) 70844022784 
+* [ ] 000001be23d5e950 [0004ea99:cpu 4]: 0x00070000_bcid task (852; 122; 24): : !executing 
+* [ ] 000001be23d5e950 [0004ea9a:cpu 4]: 0x00020001_bcid 0x000001b437448100 (0xa999f54f508570ef) 214 
+* [ ] 000001be23d5e950 [0004ea9b:cpu 4]: 0x00070000_bcid task (853; 123; 176): : !executing 
+* [ ] 000001be23d5e950 [0004ea9c:cpu 4]: 0x00020000_bcid 0x000001b4373cccf8 (0xe85c763ffb54f295) 70843957248 
+* [ ] 000001be23d5e950 [0004ea9d:cpu 4]: 0x00070000_bcid task (854; 124; 148): : !executing 
+* [ ] 000001be23d5e950 [0004ea9e:cpu 4]: 0x00070000_bcid task (855; 125; 175): : !executing 
+* [ ] 000001be23d5e950 [0004ea9f:cpu 4]: 0x00020001_bcid 0x000001b4373bce20 (0x312c7bcf2526adb7) 4 
+* [ ] 000001be23d5e950 [0004eaa0:cpu 4]: 0x00070000_bcid task (856; 126; 110): : !executing 
+* [ ] 000001be23d5e950 [0004eaa1:cpu 4]: 0x00020001_bcid 0x000001b4371790b0 (0x7651f899647d463f) 54 
+* [ ] 000001be23d5e950 [0004eaa2:cpu 4]: 0x00070000_bcid task (857; 127; 106): : !executing 
+* [ ] 000001be23d5e950 [0004eaa3:cpu 4]: 0x00020000_bcid 0x000001b4375a3c8c (0x6b2fe7bdbe9ab764) 70799851520 
+* [ ] 000001be23d5e950 [0004eaa4:cpu 4]: 0x00070000_bcid task (858; 128; 23): : !executing 
+* [ ] 000001be23d5e950 [0004eaa5:cpu 4]: 0x00070000_bcid task (859; 129; 15): : !executing 
+* [ ] 000001be23d5e950 [0004eaa6:cpu 4]: 0x00020001_bcid 0x000001b43758ee94 (0x5690de6d88c4abab) 214 
+* [ ] 000001be23d5e950 [0004eaa7:cpu 4]: 0x00070000_bcid task (860; 130; 150): : !executing 
+* [ ] 000001be23d5e950 [0004eaa8:cpu 4]: 0x00060003_bcid 0x000001b43a557ad7 (0x17165e28d6b26c66) 0x000001b437916150 (0xdb2e4556f5b52066) 
+* [ ] 000001be23d5e950 [0004eaa9:cpu 4]: 0x00060002_bcid 0x000001b43a557ad7 (0x17165e28d6b26c66) 
+* [ ] 000001be23d5e950 [0004eaaa:cpu 4]: 0x00060002_bcid 0x000001b43a557ad7 (0x17165e28d6b26c66) 
+* [ ] 000001be23d5e950 [0004eaab:cpu 4]: 0x00060002_bcid 0x000001b43a557ad7 (0x17165e28d6b26c66) 
+* [ ] 000001be23d5e950 [0004eaac:cpu 4]: 0x00060002_bcid 0x000001b43a557ad7 (0x17165e28d6b26c66) 
+* [ ] 000001be23d5e950 [0004eaad:cpu 4]: 0x00070000_bcid task (861; 131; 153): : !executing 
+* [ ] 000001be23d5e950 [0004eaae:cpu 4]: 0x00060003_bcid 0x000001b43a557056 (0xa39f8252fa89733c) 0x000001b437921bc8 (0x4786ca03e291fc92) 
+* [ ] 000001be23d5e950 [0004eaaf:cpu 4]: 0x00060002_bcid 0x000001b43a557056 (0xa39f8252fa89733c) 
+* [ ] 000001be23d5e950 [0004eab0:cpu 4]: 0x00060002_bcid 0x000001b43a557056 (0xa39f8252fa89733c) 
+* [ ] 000001be23d5e950 [0004eab1:cpu 4]: 0x00060002_bcid 0x000001b43a557056 (0xa39f8252fa89733c) 
+* [ ] 000001be23d5e950 [0004eab2:cpu 4]: 0x00060002_bcid 0x000001b43a557056 (0xa39f8252fa89733c) 
+* [ ] 000001be23d5e950 [0004eab3:cpu 4]: 0x00060003_bcid 0x000001b43a55713a (0x2344f1dba2d01346) 0x000001b437922b08 (0x66ed345989315003) 
+* [ ] 000001be23d5e950 [0004eab4:cpu 4]: 0x00060002_bcid 0x000001b43a55713a (0x2344f1dba2d01346) 
+* [ ] 000001be23d5e950 [0004eab5:cpu 4]: 0x00060002_bcid 0x000001b43a55713a (0x2344f1dba2d01346) 
+* [ ] 000001be23d5e950 [0004eab6:cpu 4]: 0x00060002_bcid 0x000001b43a55713a (0x2344f1dba2d01346) 
+* [ ] 000001be23d5e950 [0004eab7:cpu 4]: 0x00060002_bcid 0x000001b43a55713a (0x2344f1dba2d01346) 
+* [ ] 000001be23d5e950 [0004eab8:cpu 4]: 0x00070000_bcid task (862; 132; 151): : !executing 
+* [ ] 000001be23d5e950 [0004eab9:cpu 4]: 0x00020001_bcid 0x000001b43739a43c (0x0ce65ac35d13d743) 54 
+* [ ] 000001be23d5e950 [0004eaba:cpu 4]: 0x00070000_bcid task (863; 133; 152): : !executing 
+* [ ] 000001be23d5e950 [0004eabb:cpu 4]: 0x00020001_bcid 0x000001b43739a238 (0xcc5a32874b7b0db6) 54 
+* [ ] 000001be23d5e950 [0004eabc:cpu 4]: 0x00070000_bcid task (864; 134; 279): : !executing 
+* [ ] 000001be23d5e950 [0004eabd:cpu 4]: 0x00060003_bcid 0x000001b43a55baea (0x4016f70457bb5607) 0x000001b437913038 (0x31cada972458c7e7) 
+* [ ] 000001be23d5e950 [0004eabe:cpu 4]: 0x00060000_bcid 0x000001b43a55baea (0x4016f70457bb5607) 
+* [ ] 000001be23d5e950 [0004eabf:cpu 4]: 0x00070000_bcid task (865; 135; 218): : !executing 
+* [ ] 000001be23d5e950 [0004eac0:cpu 4]: 0x00070000_bcid task (866; 136; 280): : !executing 
+* [ ] 000001be23d5e950 [0004eac1:cpu 4]: 0x00060003_bcid 0x000001b43a55baea (0x4016f70457bb5607) 0x000001b437913038 (0x31cada972458c7e7) 
+* [ ] 000001be23d5e950 [0004eac2:cpu 4]: 0x00060000_bcid 0x000001b43a55baea (0x4016f70457bb5607) 
+* [ ] 000001be23d5e950 [0004eac3:cpu 4]: 0x00070000_bcid task (867; 137; 216): : !executing 
+* [ ] 000001be23d5e950 [0004eac4:cpu 4]: 0x00020001_bcid 0x000001b4374410f8 (0x94df0b83128032f1) 107 
+* [ ] 000001be23d5e950 [0004eac5:cpu 4]: 0x00070000_bcid task (868; 138; 209): : !executing 
+* [ ] 000001be23d5e950 [0004eac6:cpu 4]: 0x00020001_bcid 0x000001b4373cf754 (0x979e5f9e53e9d4c5) 214 
+* [ ] 000001be23d5e950 [0004eac7:cpu 4]: 0x00070000_bcid task (869; 139; 281): : !executing 
+* [ ] 000001be23d5e950 [0004eac8:cpu 4]: 0x00060003_bcid 0x000001b43a55bbc3 (0x43868c5dd0a3a797) 0x000001b437911160 (0x850b89e0244160d0) 
+* [ ] 000001be23d5e950 [0004eac9:cpu 4]: 0x00060000_bcid 0x000001b43a55bbc3 (0x43868c5dd0a3a797) 
+* [ ] 000001be23d5e950 [0004eaca:cpu 4]: 0x00070000_bcid task (870; 140; 242): : !executing 
+* [ ] 000001be23d5e950 [0004eacb:cpu 4]: 0x00070000_bcid task (871; 141; 119): : !executing 
+* [ ] 000001be23d5e950 [0004eacc:cpu 4]: 0x00070000_bcid task (872; 142; 118): : !executing 
+* [ ] 000001be23d5e950 [0004eacd:cpu 4]: {end: fence 154492}
+*[ ] 000001be2d289d00 [0001291f:cpu 5]: {on queue: fence 154493}
+*[ ] 000001be2d28eee0 [000423b2:cpu 5]: {on queue: fence 154493}
+*[ ] 000001be2d2930b0 [00037cb2:cpu 5]: {on queue: fence 154493}
+*[ ] 000001be2d297280 [0002fa37:cpu 5]: {on queue: fence 154493}
+*[ ] 000001be2d2a3460 [0001433c:cpu 5]: {on queue: fence 154493}
+*[ ] 000001be2d2a6610 [0003d527:cpu 5]: {on queue: fence 154493}
+*[ ] 000001be2d2a7780 [0004874b:cpu 5]: {on queue: fence 154493}
+*[ ] 000001be2d2a88f0 [0004d479:cpu 5]: {on queue: fence 154493}
+*[ ] 000001be2d2a9a60 [0002037a:cpu 6]: {on queue: fence 154494}
+*[ ] 000001be2d2aabd0 [0007e887:cpu 7]: {on queue: fence 154495}
+*[ ] 000001be2d52bd80 [0010c045:cpu 0]: {on queue: fence 154496}
+*[ ] 000001be2d52cef0 [00044234:cpu 0]: {on queue: fence 154496}
+*[ ] 000001be2d52e060 [0001ccc8:cpu 0]: {on queue: fence 154496}
+*[ ] 000001be2d5321f0 [00088d77:cpu 0]: {on queue: fence 154496}
+*[ ] 000001be2d53b370 [0008ecf4:cpu 0]: {on queue: fence 154496}
+*[ ] 000001be2d53c4e0 [00033b58:cpu 1]: {on queue: fence 154497}
+*[ ] 000001be2d53f660 [0001fdec:cpu 1]: {on queue: fence 154497}
+*[ ] 000001be23662990 [0004e9de:cpu 1]: {on queue: fence 154497}
+*[ ] 000001be2365c720 [00012936:cpu 2]: {on queue: fence 154498}
+*[ ] 000001be23663d40 [000424e7:cpu 2]: {on queue: fence 154498}
+*[ ] 000001be2365cdb0 [00037cca:cpu 2]: {on queue: fence 154498}
+*[ ] 000001be2d56e7b0 [0002f79b:cpu 2]: {on queue: fence 154498}
+*[ ] 000001be2d5722c0 [0001411f:cpu 2]: {on queue: fence 154498}
+*[ ] 000001be2d56ee40 [0003d56f:cpu 2]: {on queue: fence 154498}
+*[ ] 000001be2d56f4d0 [00048817:cpu 2]: {on queue: fence 154498}
+*[ ] 000001be2d573d00 [0004d146:cpu 2]: {on queue: fence 154498}
+*
+* QUEUE 1 (last known completed fence = 56565 : 5)
+* --- ----------------  -------- --- -   -------------------------------
+* [-] commandListPtr   [id:status fence] callstackId     description... 
+* --- ----------------  -------- --- -   -------------------------------
+*
+* QUEUE 2 (last known completed fence = 690 : 2)
+* --- ----------------  -------- --- -   -------------------------------
+* [-] commandListPtr   [id:status fence] callstackId     description... 
+* --- ----------------  -------- --- -   -------------------------------
+*
+* QUEUE 3 (last known completed fence = 0 : 0)
+* --- ----------------  -------- --- -   -------------------------------
+* [-] commandListPtr   [id:status fence] callstackId     description... 
+* --- ----------------  -------- --- -   -------------------------------
+
+[Warning: TG status is not precise: the GPU might not have finished processing previous tasks]
+*
+* Task Graph GPU Status:
+* Did not run
+*
+*
